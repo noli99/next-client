@@ -15,3 +15,4 @@
 .history/*
 
 # next.js build output
+.next
